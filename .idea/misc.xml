@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/look-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/look-all/pom.xml" />
+        <option value="$PROJECT_DIR$/look-shop-webapp/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/look-webapp-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/look-webapp/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+</project>

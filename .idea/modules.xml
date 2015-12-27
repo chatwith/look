@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/look.iml" filepath="$PROJECT_DIR$/.idea/look.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-all/look-all.iml" filepath="$PROJECT_DIR$/look-all/look-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-shop-webapp/look-shop-webapp.iml" filepath="$PROJECT_DIR$/look-shop-webapp/look-shop-webapp.iml" />
+    </modules>
+  </component>
+</project>
