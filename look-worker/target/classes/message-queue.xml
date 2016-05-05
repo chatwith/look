@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <import resource="classpath*:queue_config/common.xml"/>
+     <!--投递反馈-->
+    <bean id="messageQueue" parent="baseSimpleRocketQueueBuilderBean"
+          class="com.look.common.rocket.impl.spring.SimpleRocketQueueBuilderBean">
+        <constructor-arg value="PushTopic"/>
+        <property name="beanClass" value="com.look.queue.entity.MessageEntity" />
+    </bean>
+    <bean id="messageQueuePutter" factory-bean="messageQueue" factory-method="getPutter" />
+    <bean id="messageQueueTaker" factory-bean="messageQueue" factory-method="getTaker">
+        <constructor-arg index="0" value="PushTopic" />
+    </bean>
+
+</beans>

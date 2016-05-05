@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/look-webapp/pom.xml" />
         <option value="$PROJECT_DIR$/look-all/pom.xml" />
         <option value="$PROJECT_DIR$/look-shop-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/look-queue/pom.xml" />
+        <option value="$PROJECT_DIR$/webapp/look-shop-webapp/pom.xml" />
+        <option value="$PROJECT_DIR$/common/queue/pom.xml" />
+        <option value="$PROJECT_DIR$/look-common/pom.xml" />
+        <option value="$PROJECT_DIR$/look-worker/pom.xml" />
+        <option value="$PROJECT_DIR$/look-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/look-common-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/look-common-config/pom.xml" />
+        <option value="$PROJECT_DIR$/look-common/look-common-config/pom.xml" />
+        <option value="$PROJECT_DIR$/look-common/look-common-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/look-common/look-common-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/look-zk/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/look-common-queue/pom.xml" />
         <option value="$PROJECT_DIR$/look-webapp-shop/pom.xml" />
         <option value="$PROJECT_DIR$/look-webapp/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK" />
 </project>

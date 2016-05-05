@@ -2,7 +2,21 @@
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/look-all" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/look-webapp" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/look-webapp-shop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-common/look-common-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-common/look-common-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-common/look-common-logback" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-common/look-common-logger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-common/look-common-queue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-queue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-worker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-zk/src/main/java/com/look/zk/atomic/MutableAtomicValue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-zk/src/main/java/com/look/zk/atomic/TestCachedAtomicCounter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-zk/src/main/java/com/look/zk/atomic/TestDistributedAtomicLong.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-zk/src/main/java/com/look/zk/barriers/TestDistributedBarrier.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-zk/src/main/java/com/look/zk/barriers/TestDistributedDoubleBarrier.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/look-zk/src/main/java/com/look/zk/locks/TestInterProcessReadWriteLock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webapp/look-shop-webapp" charset="UTF-8" />
   </component>
 </project>

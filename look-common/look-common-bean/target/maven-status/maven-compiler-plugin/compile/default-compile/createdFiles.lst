@@ -1,0 +1,3 @@
+com\look\common\bean\serializer\BeanSerializer.class
+com\look\common\bean\serializer\SerializationException.class
+com\look\common\bean\serializer\AbstractBeanSerializer.class

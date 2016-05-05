@@ -22,11 +22,32 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="look-common-bean" />
+        <module name="look-common-config" />
+        <module name="look-common-logback" />
+        <module name="look-common-logger" />
+        <module name="look-common-queue" />
+        <module name="look-producer" />
+        <module name="look-queue" />
         <module name="look-shop-webapp" />
+        <module name="look-worker" />
+        <module name="look-zk" />
+        <module name="queue" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="base" target="1.6" />
       <module name="look-all" target="1.6" />
+      <module name="look-common" target="1.6" />
+      <module name="look-common-bean" target="1.6" />
+      <module name="look-common-config" target="1.6" />
+      <module name="look-common-logback" target="1.6" />
+      <module name="look-common-logger" target="1.6" />
+      <module name="look-common-queue" target="1.6" />
+      <module name="look-producer" target="1.6" />
+      <module name="look-queue" target="1.6" />
+      <module name="look-shop-webapp" target="1.6" />
+      <module name="look-worker" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
