@@ -8,7 +8,7 @@
     <artifactId>look-all</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>look-all ${project.version}</name>
+    <name>look-all-${project.version}</name>
     <url>https://github.com/chatwith/look</url>
 
     <prerequisites>

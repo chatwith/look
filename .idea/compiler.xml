@@ -27,9 +27,14 @@
         <module name="look-common-logback" />
         <module name="look-common-logger" />
         <module name="look-common-queue" />
-        <module name="look-producer" />
+        <module name="look-kafka" />
+        <module name="look-netty" />
         <module name="look-queue" />
         <module name="look-shop-webapp" />
+        <module name="look-test" />
+        <module name="look-thrift-client" />
+        <module name="look-thrift-core" />
+        <module name="look-thrift-server" />
         <module name="look-worker" />
         <module name="look-zk" />
         <module name="queue" />
@@ -44,9 +49,11 @@
       <module name="look-common-logback" target="1.6" />
       <module name="look-common-logger" target="1.6" />
       <module name="look-common-queue" target="1.6" />
+      <module name="look-kafka" target="1.8" />
       <module name="look-producer" target="1.6" />
       <module name="look-queue" target="1.6" />
       <module name="look-shop-webapp" target="1.6" />
+      <module name="look-thrift" target="1.6" />
       <module name="look-worker" target="1.6" />
     </bytecodeTargetLevel>
   </component>

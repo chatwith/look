@@ -11,6 +11,7 @@
 
     <groupId>com.look</groupId>
     <artifactId>look-producer</artifactId>
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>

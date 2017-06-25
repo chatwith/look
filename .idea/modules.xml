@@ -10,9 +10,16 @@
       <module fileurl="file://$PROJECT_DIR$/look-common/look-common-logback/look-common-logback.iml" filepath="$PROJECT_DIR$/look-common/look-common-logback/look-common-logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/look-common/look-common-logger/look-common-logger.iml" filepath="$PROJECT_DIR$/look-common/look-common-logger/look-common-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/look-common/look-common-queue/look-common-queue.iml" filepath="$PROJECT_DIR$/look-common/look-common-queue/look-common-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-kafka/look-kafka.iml" filepath="$PROJECT_DIR$/look-kafka/look-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-netty/look-netty.iml" filepath="$PROJECT_DIR$/look-netty/look-netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/look-producer/look-producer.iml" filepath="$PROJECT_DIR$/look-producer/look-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/look-queue/look-queue.iml" filepath="$PROJECT_DIR$/look-queue/look-queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapp/look-shop-webapp/look-shop-webapp.iml" filepath="$PROJECT_DIR$/webapp/look-shop-webapp/look-shop-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-test/look-test.iml" filepath="$PROJECT_DIR$/look-test/look-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-thrift/look-thrift.iml" filepath="$PROJECT_DIR$/look-thrift/look-thrift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-thrift/look-thrift-client/look-thrift-client.iml" filepath="$PROJECT_DIR$/look-thrift/look-thrift-client/look-thrift-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-thrift/look-thrift-core/look-thrift-core.iml" filepath="$PROJECT_DIR$/look-thrift/look-thrift-core/look-thrift-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/look-thrift/look-thrift-server/look-thrift-server.iml" filepath="$PROJECT_DIR$/look-thrift/look-thrift-server/look-thrift-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/look-worker/look-worker.iml" filepath="$PROJECT_DIR$/look-worker/look-worker.iml" />
       <module fileurl="file://$PROJECT_DIR$/look-zk/look-zk.iml" filepath="$PROJECT_DIR$/look-zk/look-zk.iml" />
     </modules>

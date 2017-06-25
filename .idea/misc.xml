@@ -21,6 +21,11 @@
         <option value="$PROJECT_DIR$/look-common/look-common-logback/pom.xml" />
         <option value="$PROJECT_DIR$/look-common/look-common-logger/pom.xml" />
         <option value="$PROJECT_DIR$/look-zk/pom.xml" />
+        <option value="$PROJECT_DIR$/look-netty/pom.xml" />
+        <option value="$PROJECT_DIR$/look-test/pom.xml" />
+        <option value="$PROJECT_DIR$/look-thrift/pom.xml" />
+        <option value="$PROJECT_DIR$/look-thrift/look-thrift-server/pom.xml" />
+        <option value="$PROJECT_DIR$/look-kafka/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -31,5 +36,5 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
